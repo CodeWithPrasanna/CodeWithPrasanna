@@ -5,6 +5,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 <img src="https://github-readme-stats.vercel.app/api?username=IamPrasannaKumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ItsPrasannaKumar&theme=tokyonight">
-<!-- <p align="center"><img src="https://profile-counter.glitch.me/{ItsPrasannaKumar}/count.svg"/></p> -->
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=IamPrasannaKumar&theme=tokyonight">
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/{IamPrasannaKumar}/count.svg"/></p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-IamPrasannaKumar&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-IamPrasannaKumar" /> </p>
