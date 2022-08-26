@@ -11,7 +11,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam_prasanna.kumar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-kumar-%F0%9F%8E%AF-26615b7b?lipi=urn:li:page:d_flagship3_profile_view_base_contact_details;RNdIMIB1TRGAbEIIYUV8zA==) [![Twitter](https://img.shields.io/twitter/follow/alwaysPrashh?logo=Twitter&style=for-the-badge)](https://twitter.com/alwaysPrashh)
