@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 - 🔭 I’m currently working on Flutter/Dart Projects.
-- 🌱 I’m currently learning Flutter and dart related Stuff.
+- 🌱 I’m learning Flutter and dart related Stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 - 📫 How to reach me: Check social links below.
