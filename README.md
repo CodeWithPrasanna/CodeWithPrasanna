@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Prasanna Kumar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IamPrasannaKumar&label=Views&color=blue&style=plastic&style=for-the-badge" alt="IamPrasannaKumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IamPrasannaKumar&label=Views&color=blue&style=plastic&style=for-the-badge" alt="CodeWithPrasanna" /> </p>
 
 # 💫 About Me :
 - 🔭 I’m currently working on Flutter/Dart Projects.
@@ -23,18 +23,18 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=IamPrasannaKumar&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=CodeWithPrasanna&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamPrasannaKumar&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithPrasanna&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
 <!-- 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=IamPrasannaKumar&show_icons=true&theme=vue" /> -->
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IamPrasannaKumar&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithPrasanna&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
