@@ -1,15 +1,15 @@
 <h1 align="center"> Hey there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" /> I'm Prasanna Kumar</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IamPrasannaKumar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CodeWithPrasanna&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 💫 About Me
 - 🔭 Currently building **Flutter/Dart Projects** 🚀  
-- 🌱 Learning **Flutter, Dart, Go & Hyperledger Fabric (Blockchain)**  
-- 🛠️ Skilled in **Mobile Development, Cloud, APIs, and Blockchain Solutions**  
+- 🌱 Learning **Flutter, Dart, Go, Node.js, Swift & Hyperledger Fabric (Blockchain)**  
+- 🛠️ Skilled in **Mobile Development, and Docker**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: *Everything is 0s and 1s!*  
 - 📫 Reach me through socials below 👇  
@@ -28,6 +28,9 @@
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyperledger-Fabric-%2303585B.svg?style=for-the-badge&logo=hyperledger&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -41,7 +44,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IamPrasannaKumar&show_icons=true&theme=vue" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeWithPrasanna&show_icons=true&theme=vue" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithPrasanna&theme=vue" />
 </p>
 
@@ -49,14 +52,7 @@
 
 ## 🌐 Languages Used
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPrasannaKumar&layout=pie&theme=vue" />
-</p>
-
----
-
-## 🔥 Contribution Calendar
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamPrasannaKumar&theme=react-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithPrasanna&layout=pie&theme=vue" />
 </p>
 
 ---
@@ -78,7 +74,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=IamPrasannaKumar&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CodeWithPrasanna&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <div align="center">
   
